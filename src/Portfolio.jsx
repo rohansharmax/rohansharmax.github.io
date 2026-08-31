@@ -572,7 +572,6 @@ export default function Portfolio() {
             </div>
             <div className="colophon">
               <span>© 2026 Rohan Sharma · British Columbia</span>
-              <span>React · Vite · Netlify</span>
             </div>
           </section>
         </main>
